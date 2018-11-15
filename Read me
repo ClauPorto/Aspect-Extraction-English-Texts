@@ -1,0 +1,13 @@
+Autores:
+Claudia Porto Capetillo
+Juan Enrique Morales Calvo
+
+La carpeta project debe ser copiada en el directorio:
+LETO/leto/unstrutured/sensorial
+
+En el archivo sensors.py se encuentran las funciones necesarias para probar las soluciones
+
+Soluciones:
+1- Basada en la frecuencia en que ocurren los sustantivos y las frases sustantivales
+2- Basada en la frecuencia en que ocurren los sustantivos y las frases sustantivales pero realizando realizando poda al conjunto de aspectos candidatos
+3- Machine learning supervisado utilizando Conditional Random Field.
